@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+
+<OutputType>Exe</OutputType>
+
+<TargetFramework>net8.0</TargetF
+
+<ImplicitUsings>enable</Implicit
+
+<Nullable>enable</Nullable>
+</PropertyGroup>
+<ItemGroup>
+
+<PackageReference Include="Micro
+
+<PackageReference Include="Micro
+<PrivateAssets>all</PrivateAss
+
+<IncludeAssets>ru ime; build;
+
+</PackageReference>
+</ItemGroup>
+</Project>
